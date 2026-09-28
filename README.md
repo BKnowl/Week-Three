@@ -3,4 +3,4 @@ Week Three for me was spent at the GIS lab in Macodrum Library on Campus. Where 
 ___
 Detailed Notes relating to the practices in the lab can be found in my Log. 
 ___
-My completed XGIS folder is also attached above. 
+My completed QGIS folder is also attached above. 
