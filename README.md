@@ -4,3 +4,5 @@ ___
 Detailed Notes relating to the practices in the lab can be found in my Log. 
 ___
 My completed QGIS folder is also attached above. 
+---
+My brief thoughts on this weeks readings too are provided in my overview
