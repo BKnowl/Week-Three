@@ -1,0 +1,9 @@
+# Overview on Readings - Week Three
+___
+#### Hacigüzeller - Archaeological (Digital) Maps as Performances Towards Alternative Mappings 
+- After I read Hacigüzeller piece, i kept thinking about my experience in the Xlab specifcally when we added Ontario's river systems to our map of historical sites and made a 500 metre buffer on either side of each river. Getting 77 historical sites out of doing that seemed like a pretty clear result. If we picked a different distance though, we'd get an entirely different number of sites. Hacigüzeller's point is that maps reflect the choices that creator of the map made and in turn that affects what the viewer can see. Our map at the XLab showed that a lot of sites were near rivers, but it never told us why, it can't.   
+___
+#### Hacigüzeller - Archaeology, Crafting Maps and Political Change 
+- In comparing back to the QGIS lab, i liked how there wasn't one distinct way to do things. Joel would show us one way, but some of us would find a different way of making sense of the material. Hacigüzeller talks abbout mapping as a kind of craft, where making the map also changes how you think about what you're mapping. That felt true to me because I understood the process more once I tried it myself. She also points out that Digital tools can change what skills archaeologists use. You might spend less time drawing and closely looking at something, and more time figuring out the software. I hadn't really thought about what could get lost when the process itself gets faster.
+- The Stonehenge example she used was also interesting. The artists used GIS and 3D scans to make a figure out of the male directors' body parts and draw attention to who had power on the archaeological team. I usually think of GIS as a way to organize information, so I hadn't thought about using it to make a point about power.
+- 
